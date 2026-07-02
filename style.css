@@ -1,0 +1,166 @@
+body {
+
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background-color: #f0f4f8;
+    color: #333;
+
+}
+
+
+
+header {
+
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 25px;
+    text-align: center;
+
+}
+
+
+
+header h1 {
+
+    font-size: 35px;
+
+}
+
+
+
+nav {
+
+    margin-top: 20px;
+
+}
+
+
+
+nav a {
+
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+
+}
+
+
+
+nav a:hover {
+
+    color: #ffd369;
+
+}
+
+
+
+section {
+
+    background-color: white;
+
+    width: 70%;
+
+    margin: 40px auto;
+
+    padding: 40px;
+
+    border-radius: 15px;
+
+    box-shadow: 0px 5px 15px #ccc;
+
+}
+
+
+
+h2 {
+
+    color: #667eea;
+
+}
+
+
+
+button {
+
+    background-color: #ff6b6b;
+
+    color:white;
+
+    border:none;
+
+    padding:12px 25px;
+
+    border-radius:20px;
+
+    cursor:pointer;
+
+}
+
+
+
+button:hover {
+
+    background-color:#ee5253;
+
+}
+
+
+
+input, textarea {
+
+    padding:12px;
+
+    width:300px;
+
+    border:1px solid #ccc;
+
+    border-radius:8px;
+
+}
+
+
+
+footer {
+
+    background: linear-gradient(135deg, #667eea, #764ba2);
+
+    color: white;
+
+    text-align: center;
+
+    padding: 25px 10px;
+
+    margin-top: 50px;
+
+    font-size: 16px;
+
+}
+
+
+
+footer p {
+
+    margin: 5px;
+
+}
+
+
+
+footer a {
+
+    color: #ffd369;
+
+    text-decoration: none;
+
+    margin: 0 10px;
+
+}
+
+
+
+footer a:hover {
+
+    color: white;
+
+}
